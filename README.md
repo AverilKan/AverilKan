@@ -17,6 +17,9 @@
   ## Tech Stack
 
   **Languages:** Python · SQL · JavaScript · R · SAS
+  
   **Data Science:** pandas · numpy · scikit-learn · XGBoost · LightGBM · PyTorch · Tensorflow
+  
   **Frontend:** React · TypeScript
+  
   **Backend:** TypScript
