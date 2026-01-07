@@ -7,7 +7,7 @@
   ## What I Do
 
   **Data Science Projects:**
-  - **Lending-Club** — End-to-end ML: 5-model comparison, feature engineering, 0.71 ROC AUC [Live](https://github.com/AverilKan/lending-club-analysis)
+  - **Lending-Club** — End-to-end ML: 5-model comparison, feature engineering, 0.71 ROC AUC [Repo](https://github.com/AverilKan/Lending-Club-loan)
 
   **Apps:**
   - **Parsiv** — [Live](https://parsiv.com) — PDF research assistant: drag-and-drop documents, ask questions, get cited answers. RAG-powered with vector embeddings + LLM integration.
