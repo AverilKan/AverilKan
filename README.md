@@ -8,6 +8,7 @@
 
   **Data Science Projects:**
   - **Lending-Club** — End-to-end ML: 5-model comparison, feature engineering, 0.71 ROC AUC [Repo](https://github.com/AverilKan/Lending-Club-loan)
+  - **Census-2011-Tenure-vs-Health** - Analysis of census data to discover underlying trends with tableau dashboards showcase. [Repo](https://github.com/AverilKan/Census-2011-Tenure-vs-Health)
 
   **Apps:**
   - **Parsiv** — [Live](https://parsiv.com) — PDF research assistant: drag-and-drop documents, ask questions, get cited answers. RAG-powered with vector embeddings + LLM integration.
