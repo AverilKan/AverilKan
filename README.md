@@ -1,9 +1,7 @@
-# Averil Kan
+<img src="./header.svg" alt="Averil Kan — London / Hong Kong, code · data · products, building SimpleFix / RepairScope, averilkan.com, status: shipping" width="640" />
 
 **Data, software & product builder.**
 I build data-driven products, ML systems and full-stack applications — from credit-risk modelling to AI research tools and procurement software.
-
-🌐 [averilkan.com](https://averilkan.com) &nbsp;·&nbsp; London / Hong Kong
 
 ---
 

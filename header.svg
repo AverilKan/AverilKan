@@ -1,0 +1,43 @@
+<svg width="640" height="190" viewBox="0 0 640 190" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Averil Kan — London and Hong Kong, code, data, products, building SimpleFix and RepairScope, averilkan.com, status shipping">
+  <style>
+    .bg { fill: #0d1117; }
+    .line { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 16px; fill: #c9d1d9; opacity: 0; }
+    .name { font-weight: 700; fill: #e6edf3; letter-spacing: 2px; }
+    .rule { stroke: #30363d; stroke-width: 1; opacity: 0; }
+    .key { fill: #7d8590; }
+    .val { fill: #58a6ff; }
+    .status-val { fill: #3fb950; }
+    .cursor { fill: #3fb950; }
+
+    .l0 { animation: reveal 0.4s ease-out 0.1s forwards; }
+    .l1 { animation: reveal 0.4s ease-out 0.5s forwards; }
+    .l2 { animation: reveal 0.4s ease-out 0.9s forwards; }
+    .l3 { animation: reveal 0.4s ease-out 1.3s forwards; }
+    .l4 { animation: reveal 0.4s ease-out 1.7s forwards; }
+    .l5 { animation: reveal 0.4s ease-out 2.1s forwards; }
+    .l6 { animation: reveal 0.4s ease-out 2.5s forwards; }
+
+    @keyframes reveal {
+      from { opacity: 0; transform: translateX(-6px); }
+      to   { opacity: 1; transform: translateX(0); }
+    }
+    @keyframes blink {
+      0%, 45% { opacity: 1; }
+      50%, 95% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+    .cursor { animation: blink 1s step-end 2.9s infinite; }
+  </style>
+
+  <rect class="bg" width="640" height="190" rx="8"/>
+
+  <text x="24" y="38" class="line name l0" style="font-size:22px;">AVERIL KAN</text>
+  <line x1="24" y1="52" x2="616" y2="52" class="rule l0"/>
+
+  <text x="24" y="82" class="line l1"><tspan class="key">location</tspan><tspan class="val" x="140">London ↔ Hong Kong</tspan></text>
+  <text x="24" y="106" class="line l2"><tspan class="key">focus</tspan><tspan class="val" x="140">code · data · products</tspan></text>
+  <text x="24" y="130" class="line l3"><tspan class="key">building</tspan><tspan class="val" x="140">SimpleFix / RepairScope</tspan></text>
+  <text x="24" y="154" class="line l4"><tspan class="key">web</tspan><tspan class="val" x="140">averilkan.com</tspan></text>
+  <text x="24" y="178" class="line l5"><tspan class="key">status</tspan><tspan class="status-val" x="140">shipping</tspan></text>
+  <rect x="212" y="166" width="9" height="16" class="cursor l6"/>
+</svg>
