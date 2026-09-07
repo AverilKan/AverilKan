@@ -1,26 +1,40 @@
- # Hey, I'm Averil
+<img src="./header.svg" alt="Averil Kan — London / Hong Kong, code · data · products, building SimpleFix / RepairScope, averilkan.com, status: shipping" width="640" />
 
-  **Data Analyst building toward Data Science.** Shipping ML projects + web applications. Currently working on planning tech automation and quantitative trading frameworks. London-based.
+**Data, software & product builder.**
+I build data-driven products, ML systems and full-stack applications — from credit-risk modelling to AI research tools and procurement software.
 
-  ---
+---
 
-  ## What I Do
+## Selected Work
 
-  **Data Science Projects:**
-  - **Lending-Club** — End-to-end ML: 5-model comparison, feature engineering, 0.71 ROC AUC [Repo](https://github.com/AverilKan/Lending-Club-loan)
-  - **Census-2011-Tenure-vs-Health** - Analysis of census data to discover underlying trends with tableau dashboards showcase. [Repo](https://github.com/AverilKan/Census-2011-Tenure-vs-Health)
+### [RepairScope / SimpleFix HK](https://github.com/AverilKan/repairscope_hk)
+Procurement and repair-management platform for landlords and property managers.
+`Next.js` · `FastAPI` · `PostgreSQL`
+→ [Live](https://repairscope-hk-web.vercel.app)
 
-  **Apps:**
-  - **Parsiv** — [Live](https://parsiv.com) — PDF research assistant: drag-and-drop documents, ask questions, get cited answers. RAG-powered with vector embeddings + LLM integration.
+### Parsiv
+AI research workspace for organising documents and querying them with source-grounded, cited answers. RAG-powered with vector embeddings + LLM integration.
+`Next.js` · `TypeScript` · `RAG`
+→ [Live](https://parsiv.com)
 
-  ---
+### [LendingClub Default Prediction](https://github.com/AverilKan/Lending-Club-loan)
+Credit-risk modelling on 887K approved loans using temporal validation and leakage-safe feature engineering. Logistic regression matched more complex models, making the interpretable model the better deployment choice.
+`Python` · `scikit-learn` · `XGBoost`
+**0.69 out-of-time ROC AUC**
 
-  ## Tech Stack
+### [Census 2011: Tenure vs. Health](https://github.com/AverilKan/Census-2011-Tenure-vs-Health)
+Analysis of UK census data with a Tableau dashboard showcase.
 
-  **Languages:** Python · SQL · JavaScript · R · SAS
-  
-  **Data Science:** pandas · numpy · scikit-learn · XGBoost · LightGBM · PyTorch · Tensorflow
-  
-  **Frontend:** React · TypeScript
-  
-  **Backend:** TypScript
+---
+
+## Currently Building
+- RepairScope / SimpleFix HK
+- Quantitative research tooling
+- Data + AI products
+
+## Stack
+
+**Languages:** Python · SQL · TypeScript · JavaScript · R
+**Data Science:** pandas · numpy · scikit-learn · XGBoost · LightGBM · PyTorch · TensorFlow
+**Frontend:** React · Next.js
+**Backend:** FastAPI · PostgreSQL
